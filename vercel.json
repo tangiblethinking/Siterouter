@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/test",
-      "destination": "https://kenreigh-one.figma.site"
+      "destination": "https://test-one-khaki-64.vercel.app/"
     },
     {
       "source": "/test/:path*",
-      "destination": "https://kenreigh-one.figma.site/:path*"
+      "destination": "https://test-one-khaki-64.vercel.app/:path*"
     }
   ]
 }
