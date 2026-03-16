@@ -1,13 +1,22 @@
 {
   "rewrites": [
     {
+      "source": "/portfolioa4",
+      "destination": "https://jerryai.vercel.app"
+    },
+    {
+      "source": "/portfolioa4/:path*",
+      "destination": "https://jerryai.vercel.app/:path*"
+    },
+    {
       "source": "/portfolioa2",
       "destination": "https://semperis.vercel.app"
     },
     {
       "source": "/portfolioa2/:path*",
       "destination": "https://semperis.vercel.app/:path*"
-    },{
+    },
+    {
       "source": "/portfolioa1",
       "destination": "https://cricut-gamma.vercel.app"
     },
