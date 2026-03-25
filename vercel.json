@@ -1,6 +1,14 @@
 {
   "rewrites": [
     {
+      "source": "/portfolioa10",
+      "destination": "https://appprotoneov012pfunc.vercel.app"
+    },
+    {
+      "source": "/portfolioa10/:path*",
+      "destination": "https://appprotoneov012pfunc.vercel.app/:path*"
+    },
+    {
       "source": "/portfolioa9",
       "destination": "https://appprotoneov011pver.vercel.app"
     },
