@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/portfolioa11",
-      "destination": "https://appprotoneov012pfunc.vercel.app"
+      "destination": "https://appprotoneov013pacu.vercel.app"
     },
     {
       "source": "/portfolioa11/:path*",
-      "destination": "https://appprotoneov012pfunc.vercel.app/:path*"
+      "destination": "https://appprotoneov013pacu.vercel.app/:path*"
     },
     {
       "source": "/portfolioa10",
